@@ -1,0 +1,4 @@
+interface:
+  display_name: "Brief to Demo"
+  short_description: "Turn source material into a focused, demo-ready prototype"
+  default_prompt: "Use $brief-to-demo to turn the provided source material into a scoped, working demo."
